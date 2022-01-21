@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gogoshew
+- 👋 Hi, I’m @gogoshew
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on ...
